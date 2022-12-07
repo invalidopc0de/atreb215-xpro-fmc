@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "678005005")(type "KiCad")(uri "${KIPRJMOD}/libs/678005005.pretty")(options "")(descr ""))
+  (lib (name "ASP-134604-01")(type "KiCad")(uri "${KIPRJMOD}/libs/ASP-134604-01.pretty")(options "")(descr ""))
+)
